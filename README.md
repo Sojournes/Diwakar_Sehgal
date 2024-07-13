@@ -1,10 +1,13 @@
 # Hi there, I'm Sojournes! 👋
 
 I'm a competitive programmer and a machine learning enthusiast. Here's a bit about me:
-- 🔭 I’m currently working on [Heart Disease and Diabetes Detection](https://github.com/Sojournes/heart-disease-diabetes-detection)
-- 🌱 I’m currently learning Neural Networks for Pokémon classification
+- 🚀 My passion lies in coding and bringing innovative projects to life.
+- 🏆 I'm a competitive programmer with a Knight badge on Leetcode.
+- 🌟 My interests include Machine Learning, Deep Learning, and Computer Vision.
+- 🔭 I’m currently working on DeepFake Detection System.
 - 💬 Ask me about Competitive Programming, Machine Learning, or Data Science
-- 📫 How to reach me: [sojournes@example.com](mailto:sojournes@example.com)
+- 🌱 With a curious mind and a determination to learn, I'm excited to continue this journey of growth and creation.
+- 📫 How to reach me: [diwakersehgal16@gmail.com](mailto:diwakersehgal16@gmail.com)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -16,11 +19,3 @@ I'm a competitive programmer and a machine learning enthusiast. Here's a bit abo
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sojournes&layout=compact)
-
-## Current Projects
-- [Heart Disease and Diabetes Detection](https://github.com/Sojournes/heart-disease-diabetes-detection)
-- [Pokémon Classifier](https://github.com/Sojournes/pokemon-classifier)
-
-## Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sojournes&repo=heart-disease-diabetes-detection)](https://github.com/Sojournes/heart-disease-diabetes-detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sojournes&repo=pokemon-classifier)](https://github.com/Sojournes/pokemon-classifier)
