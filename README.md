@@ -1,4 +1,4 @@
-# Hi there, I'm Sojournes! 👋
+# Hi there, I'm Diwakar Sehgal! 👋
 
 I'm a competitive programmer and a machine learning enthusiast. Here's a bit about me:
 - 🚀 My passion lies in coding and bringing innovative projects to life.
